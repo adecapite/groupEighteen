@@ -21,7 +21,7 @@ GitHub: https://github.com/adecapite
 Ryan Evans (research, development, support)
 GitHub: https://github.com/rdevans87
 
-this application was developed collaboratively using agile methodologies and project management tools to conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. Advanced HTML and CSS properties make up the structure and design. While third-party APIs powered by Javascript such as Bootstrap and jquery provide the primary functionality and responsiveness of our site.
+This application was developed collaboratively using agile methodologies and project management tools to conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. Advanced HTML and CSS properties make up the structure and design. While third-party APIs powered by Javascript such as Bootstrap and jquery provide the primary functionality and responsiveness of our site.
 
 Two server-side APIs were used to retrieve, store, and display data on our site specifically pertaining to non-profit organizations and advocacy groups in the greater Columbus, OH area specializing in domestic abuse.
 
