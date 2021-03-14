@@ -46,6 +46,6 @@ Then I can enter my zipcode at the bottom of each page.
 When I view the results, I'm provided with local resources disguised as retail store locations.  
 ```
 
-## MOCKUP
+## MOCK UP
 
 ![image](https://user-images.githubusercontent.com/74195719/111054959-e208d300-843e-11eb-8374-c9f93460bf9a.png)
