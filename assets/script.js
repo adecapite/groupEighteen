@@ -1,3 +1,11 @@
+// ===================
+// Samuel Maddox Notes
+// ===================
+// I'm sorry to say there isn't much for me to comment on here. 
+// ===================
+// End Samuel Notes
+// ===================
+
 var search = document.getElementById('shelterBtn');
 var shelterList = document.getElementById('shelterList');
 
@@ -9,10 +17,7 @@ var proxy = 'https://cors-anywhere.herokuapp.com/';
 $.ajax({
     // The proxy url expects as first URL parameter the URL to be bypassed
     // https://cors-anywhere.herokuapp.com/{my-url-to-bypass}
-    url: proxy + url, 
-    // complete:function(data){
-    //     console.log("COMPLETE",data);
-    // },
+    url: proxy + url,
     success: function (result) {
         console.log("SUCCESS",result);
         // console.log(result.organizations);
